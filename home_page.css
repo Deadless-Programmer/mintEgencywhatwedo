@@ -21,7 +21,7 @@ body {
 }
 
 .navbar-nav {
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   width: 100%;
 }
@@ -357,7 +357,7 @@ footer h1 {
     text-align: center;
   }
   footer h2 {
-    max-width: 80%;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     padding: 0 50px;
