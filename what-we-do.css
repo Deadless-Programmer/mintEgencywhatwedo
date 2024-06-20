@@ -373,14 +373,16 @@ footer h1 {
   .logo-center {
     text-align: center;
   }
+ 
   footer {
     margin-top: 140px;
     padding-top: 5px;
   }
   .rounded-section-top {
+    /* height: 30vw !important; */
     width: 100%;
     position: absolute;
-    top: -40px;
+    top: -38px;
   }
 
   .heading-short-res {
